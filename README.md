@@ -52,18 +52,3 @@
 ### Website link
 - [Frontend](https://ui-updated.onrender.com/)
 - [Backend](https://flaskbackendgithub-updated-correct.onrender.com) only available for POST requests
-### Docker Image link
-- Here is the Docker container for the Flask backend: [Docker flaskbackend](https://hub.docker.com/r/someone101/flaskbackend)
-- Here is the Docker container for the Flask Frontend: [Docker uifrontend](https://hub.docker.com/r/someone101/uifrontend)
-
-
-## Checklist:
-1. Final Project Report
-2. Certificate VII Semester (Dated: December 2024).
-3. Certificate VIII Semester (Dated: May 2025).
-4. Synopsis
-5. Final Presentation
-6. Source Code
-7. Database dump (.sql file)
-8. If a web project, then a Docker file for deployment
-9. README (This file)
